@@ -2,7 +2,6 @@
 
 🚀 **Full-Stack & Backend Software Engineer** with 3+ years of experience architecting and scaling **cloud-native applications** across Go, Node.js, Python, and React ecosystems. I love building systems where **sleek UIs meet robust distributed backends**, powered by AWS, Docker, and Kubernetes.
 
----
 
 ## 👩‍💻 About Me
 
@@ -11,7 +10,6 @@
 💡 Passionate about distributed systems, real-time data pipelines, and end-to-end product engineering  
 ⚙️ Exploring: advanced cloud architecture, AI-driven retrieval systems (RAG + LLaMA 2 + LangChain), and Go-based developer tooling  
 
----
 
 ## 🧩 Professional Experience
 
@@ -31,7 +29,6 @@
 - Automated CI/CD with Jenkins pipelines, reducing deployment time by 70 percent.  
 - Integrated **Google Maps API** into React apps for dynamic visualization and navigation efficiency.  
 
----
 
 ## 🚀 Featured Projects
 
@@ -47,7 +44,6 @@ Built a **serverless job-listing scraper** deployed on AWS Lambda with SNS notif
 *React · Node.js · Express · MongoDB*  
 Developed a full-stack educational web app with secure authentication and sub-second API response times.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -58,7 +54,6 @@ Developed a full-stack educational web app with secure authentication and sub-se
 **Databases & Messaging:** PostgreSQL, MongoDB, Redis, Kafka  
 **Tools:** Linux, Git, Swagger, Postman, SonarQube, Argo CD  
 
----
 
 ## 🏆 Highlights
 
@@ -66,13 +61,12 @@ Developed a full-stack educational web app with secure authentication and sub-se
 - Certifications: **Microsoft Azure Fundamentals**, **Node.js**, **React.js**  
 - Hackathon achievements: **Winner – Techfisia**, **Runner-up – Abhisarga**
 
----
 
 ## 📫 Let’s Connect
 
 - [LinkedIn](https://linkedin.com/in/anitasb)  
 - [GitHub](https://github.com/bhagashetti)  
-- 📧 bhagashettianita7377@gmail.com  
+- bhagashettianita7377@gmail.com  
 
 ---
 
